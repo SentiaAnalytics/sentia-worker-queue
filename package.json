@@ -16,7 +16,7 @@
     "coffee": "^3.2.1"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/SentiaAnalytics/sentia-worker-queue"
-},
+    "type": "git",
+    "url": "https://github.com/SentiaAnalytics/sentia-worker-queue"
+  }
 }
