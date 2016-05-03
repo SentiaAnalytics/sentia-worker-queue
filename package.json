@@ -1,0 +1,22 @@
+{
+  "name": "sentia-worker-queue",
+  "version": "1.0.0",
+  "description": "pub/worker queue using rabbitmq and amqplib",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "coffee -c -o dist src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.4.1",
+    "ramda": "^0.21.0"
+  },
+  "devDependencies": {
+    "coffee": "^3.2.1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/SentiaAnalytics/sentia-worker-queue"
+},
+}
